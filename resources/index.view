@@ -1,0 +1,11 @@
+<svg class="background">
+
+  <text text-length="32" />
+  
+  <!-- <image href="normalSheep.jpg" /> -->
+  <image href="normalSheep.jpg" />
+  <text id="timeLabel" />
+  <text id="dateLabel" />
+  <text id="stepLabel" />
+  <text id="battLabel" />
+</svg>

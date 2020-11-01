@@ -1,0 +1,58 @@
+.background {
+  viewport-fill: navy;
+}
+
+
+/* #timeLabel {
+  font-size: 40;
+  font-family: System-Bold;
+  text-length: 8;
+  text-anchor: middle;
+  x: 50%-43;
+  y: 50%-17;
+  fill: black;
+} */ 
+
+
+
+#timeLabel {
+  font-size: 40;
+  font-family: System-Bold;
+  text-length: 8;
+  text-anchor: middle;
+  x: 50%-56;
+  y: 50%-74;
+  fill: #510064;
+}
+
+
+#dateLabel {
+  font-size: 26;
+  font-family: System-Regular;
+  text-length: 10;
+  text-anchor: middle;
+  x: 50%+45;
+  y: 50%-122;
+  fill: #00FFFF; 
+    
+}
+
+#stepLabel {
+  font-size: 26;
+  text-length: 5;
+  font-family: System-Light;
+  text-anchor: middle;
+  x: 25%;
+  y: 87%;
+  fill: #FFFF00;
+}
+
+#battLabel {
+  font-size: 26;
+  text-length: 5;
+  font-family: System-Light;
+  text-anchor: middle;
+  x: 50%;
+  y: 75%;
+  fill: #0200C6;
+}
